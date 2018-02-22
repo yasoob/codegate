@@ -94,7 +94,7 @@ section.partners {
     text-align: center;
 }
 section.partners img{
-    width: 80%;
+    width: 40%;
 }
 section.contact {
     margin-top: 120px;
@@ -104,6 +104,9 @@ section.contact {
 }
 section.contact h4{
     margin-top: 40px;
+}
+.contact a, footer a{
+    color: white;
 }
 .contact p{
     line-height: 1.7;
